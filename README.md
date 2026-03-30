@@ -1,2 +1,23 @@
-# Bike-Sale-Dashboard-Excel
-This Bike Sale Dashboard is an interactive analytical tool built in Excel to visualize customer demographics and purchasing behavior. It uses Pivot Tables and Slicers to help identify which customer segments are most likely to buy a bike.
+📈 Interactive Bike Sales Dashboard (Excel)
+
+📌 Project Overview
+This project analyzes customer data to identify key factors influencing bike purchases. By processing demographic and behavioral data, this dashboard provides a clear view of how income, education, and commute distance correlate with sales conversion. It is designed to help a sales team target.
+
+📸 Dashboard Preview
+<img width="1659" height="1151" alt="Sales Bike Dashboard Preview" src="https://github.com/user-attachments/assets/6d05e07b-8839-4d22-bef4-5046f4074d02" />
+
+🛠️ Features & Tools Used
+Data Cleaning (Excel): Standardized messy entries in the 'Gender' and 'Commute Distance' columns to ensure accurate charting.
+
+Pivot Tables & Charts: Used to aggregate average income and count purchases across multiple dimensions like gender, region, and distance.
+
+Interactive Slicers: Integrated dynamic filters for Marital Status, Region, and Education, allowing stakeholders to drill down into specific demographic performance.
+
+Line & Clustered Column Analysis: Visualized the relationship between commute habits and purchasing power to identify "High-Intent" buyers.
+
+💡Insights
+Income Correlation: Preliminary data shows that Male customers who purchased a bike have a significantly higher average income (approx. 82,500) compared to those who didn't, suggesting bikes are viewed as a premium or even lifestyle purchase in this segment.
+
+Commute Impact: There is a notable peak in purchases for customers with a 0-1 Mile commute. As commute distance increases beyond 10 miles, the travel rate drops, indicating that short-distance commuters are the primary target audience. 
+
+Regional Trends: Using the Region Slicer, we can see how geographic location impacts the effectiveness of education level on sales—for instance.
