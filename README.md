@@ -1,4 +1,4 @@
-                                          **Interactive Bike Sales Dashboard (Excel)**
+                                            **Interactive Bike Sales Dashboard (Excel)**
 
 **Project Overview**
 This project analyzes customer data to identify key factors influencing bike purchases. By processing demographic and behavioral data, this dashboard provides a clear view of how income, education, and commute distance correlate with sales conversion. It is designed to help a sales team target.
@@ -21,3 +21,4 @@ This project analyzes customer data to identify key factors influencing bike pur
 2. Commute Impact: There is a notable peak in purchases for customers with a 0-1 Mile commute. As commute distance increases beyond 10 miles, the travel rate drops, indicating that short-distance commuters are the primary target audience. 
 
 Regional Trends: Using the Region Slicer, we can see how geographic location impacts the effectiveness of education level on sales—for instance.
+
